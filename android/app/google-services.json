@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "853472829365",
+    "project_id": "chat-do-arthur",
+    "storage_bucket": "chat-do-arthur.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853472829365:android:5b0b6524cf44c3a6a103fc",
+        "android_client_info": {
+          "package_name": "br.com.arthur.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853472829365-eukl20ue9nbae03di4a226nf4jic0vap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWR-WivEl2VwcG8fLfQiKgS8B7p1ysV7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853472829365-eukl20ue9nbae03di4a226nf4jic0vap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
